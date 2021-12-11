@@ -10,7 +10,7 @@ Because it needs to be extracted (by right-clicking and then extracting) for Min
 Make sure all of the files you extracted are inside of a folder, which is in saves. Otherwise, Minecraft won't know that the world exists. 
 
 **What Minecraft version does this work for?**  
-This map was only designed for Minecraft 1.8.9. 
+This map was only designed for Minecraft Java Edition 1.8.9. 
 
 **Why am I stuck in the cage / why does the map seem broken?**  
 This is usually due to you not having your `Render Distance` set to 8. Go to `Options` and then `Video Settings` to configure it.
